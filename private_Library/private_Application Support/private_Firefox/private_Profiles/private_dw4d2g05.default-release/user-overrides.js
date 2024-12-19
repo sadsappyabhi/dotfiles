@@ -216,6 +216,9 @@ user_pref("signon.formlessCapture.enabled", false); // [*SAFE=false] whether pas
 // Load new tabs in background
 user_pref("browser.tabs.loadBookmarksInBackground", true);
 
+// PREF: restore search engine suggestions
+user_pref("browser.search.suggest.enabled", false);
+
 /*
  * misc. personal preferences
  */
